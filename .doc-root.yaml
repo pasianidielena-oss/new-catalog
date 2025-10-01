@@ -1,0 +1,7 @@
+title: База знаний ЭХЗ
+syntax: Xml
+supportedLanguages: []
+properties:
+  - name: "2"
+    type: Text
+    icon: app-window
