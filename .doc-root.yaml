@@ -1,5 +1,5 @@
 title: База знаний ЭХЗ
-syntax: Xml
+syntax: Legacy
 supportedLanguages: []
 properties:
   - name: "2"

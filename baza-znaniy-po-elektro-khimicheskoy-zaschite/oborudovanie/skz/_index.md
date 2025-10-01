@@ -3,85 +3,50 @@ order: 1
 title: СКЗ
 ---
 
-<table header="row">
-<tr>
-<td>
+{% table header="row" %}
 
-![](./skz-5.png){width=820px height=820px}
+---
 
-</td>
-<td>
+*  ![](./skz-5.png){width=820px height=820px}
 
-![](./skz-11.png){width=820px height=820px}
+*  ![](./skz-11.png){width=820px height=820px}
 
-</td>
-</tr>
-<tr>
-<td>
+---
 
-[**СКЗ серии ПКЗ-АР**](./skz-serii-pkz-ar/_index)
+*  [**СКЗ серии ПКЗ-АР**](./skz-serii-pkz-ar/_index)
 
-</td>
-<td>
+*  **СКЗ типа ИПКЗ-ЕМ-РА**
 
-**СКЗ типа ИПКЗ-ЕМ-РА**
+{% /table %}
 
-</td>
-</tr>
-</table>
+{% table header="row" %}
 
-<table header="row">
-<tr>
-<td>
+---
 
-![](./skz-7.png){width=820px height=820px}
+*  ![](./skz-7.png){width=820px height=820px}
 
-</td>
-<td>
+*  ![](./skz-8.png){width=820px height=820px}
 
-![](./skz-8.png){width=820px height=820px}
+---
 
-</td>
-</tr>
-<tr>
-<td>
+*  **СКЗ МПН-ОПЕ-М14**
 
-**СКЗ МПН-ОПЕ-М14**
+*  **СКЗ типа "Протек"**
 
-</td>
-<td>
+{% /table %}
 
-**СКЗ типа "Протек"**
+{% table header="row" %}
 
-</td>
-</tr>
-</table>
+---
 
-<table header="row">
-<tr>
-<td>
+*  ![](./skz-9.png){width=820px height=820px}
 
-![](./skz-9.png){width=820px height=820px}
+*  
 
-</td>
-<td>
+---
 
+*  **СКЗ ИП-Б2**
 
+*  
 
-</td>
-</tr>
-<tr>
-<td>
-
-**СКЗ ИП-Б2**
-
-</td>
-<td>
-
-
-
-</td>
-</tr>
-</table>
-
-
+{% /table %}
